@@ -1,0 +1,176 @@
+/* TYPOGRAPHY */
+
+
+/* --------------------------
+Default font settings
+--------------------------*/
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 70%;
+	font-weight: normal;
+	text-decoration: none;
+	line-height: 1.5em;
+}
+
+/* --------------------------
+H tags
+--------------------------*/
+
+h1{
+font-size: 2.2em;
+font-weight: normal;
+}
+
+h2{
+font-size:0.9em;
+font-weight: normal;
+}
+
+h3{
+font-size: 1.3em;
+font-weight: normal;
+}
+
+h4{
+font-size: 1.0em;
+font-weight: normal;
+line-height: 1.3em
+}
+
+h5{
+font-size: 1.3em;
+font-weight: normal;
+}
+
+h6{
+font-size: 0.9em;
+font-weight: normal;
+line-height: 1.3em;
+}
+
+/* --------------------------
+Link text
+--------------------------*/
+#nav a {
+	font-weight: normal;
+	text-decoration: none;
+}
+
+a {
+text-decoration: none;
+font-weight: bold;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+/* --------------------------
+Paragraphs
+--------------------------*/
+.thumbnail p{
+font-size: 0.9em;
+margin:0px;
+padding:0px;
+}
+
+
+p {
+margin: 10px 0px 10px 0px;
+}
+
+/* --------------------------
+Footer
+--------------------------*/
+#footer {
+font-size: 0.9em;
+}
+
+#footer a{
+font-size: 0.9em;
+font-weight: normal;
+line-height: 1.3em;
+}
+
+/* --------------------------
+Update slider controls
+--------------------------*/
+
+
+#update h3{
+margin-bottom:10px;
+}
+
+#update ul{
+margin-bottom:5px;
+}
+
+
+#update-control a {
+font-size: 0.9em;
+font-weight: normal;
+}
+
+#update-control-home a {
+font-size: 0.9em;
+font-weight: normal;
+}
+
+/* --------------------------
+See Also
+--------------------------*/
+	#see-also a{
+	margin:0px;
+	padding:0px;
+	font-weight: normal;
+	/*font-size: 0.9em;*/
+	}
+
+/* --------------------------
+Quote
+--------------------------*/
+	#quote h4{
+	font-weight: bold;
+	}
+
+/* --------------------------
+Breadcrumb
+--------------------------*/
+	#breadcrumb a{
+	font-weight:normal;
+	padding-top: 10px;
+	}
+
+
+	#breadcrumb p{
+	font-size: 0.9em;
+	font-weight: normal;
+	line-height: 1.3em;
+}
+
+/* --------------------------
+Hub blocks
+--------------------------*/
+
+.hub-left h4 {
+padding-top: 10px;
+}
+
+.hub-right h4 {
+padding-top: 10px;
+}
+
+.hub-left h4 a{
+font-size: 0.9em;
+font-weight: bold;
+}
+
+.hub-right h4 a{
+font-size: 0.9em;
+font-weight: bold;
+}
+
+
+#taxi h3{
+margin-top: -10px;
+}

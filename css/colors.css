@@ -1,0 +1,224 @@
+/* COLOUR SCHEME */
+
+/* --------------------------
+Default text coluors
+--------------------------*/
+
+body {
+	color: #7e682d;
+	background-color: #fff;
+}
+
+a {
+	color: #7e682d;
+}
+
+.thumbnail p{
+color: #a26701;
+}
+
+hr{
+color: #7e682d;
+background-color: #7e682d;
+}
+
+/* --------------------------
+H tags
+--------------------------*/
+
+h1{
+color: #a26701;
+}
+
+h2{
+color: #a26701;
+}
+
+h3{
+color: #a26701;
+}
+
+h4{
+color: #a26701;
+}
+
+h5{
+color: #a26701;
+}
+
+h6{
+color: #a26701;
+}
+
+.guestbookHilight {
+color: #a26701;
+}
+
+/* --------------------------
+Primary Navigation
+--------------------------*/
+.highlight {
+	background-color: #eadd6d;
+	}
+
+#nav ul{
+	border-top-color: #f4e773;
+	}
+	
+#nav li{
+	border-bottom-color: #f4e773;
+	}
+	
+#nav ul a:hover{
+	background-color: #eadd6d;
+}	
+
+#nav a{
+	color: #fff;
+}
+	
+/*----------------------------------
+Quote 
+----------------------------------*/
+
+#quote h4{
+color: #fff;
+}
+
+#quote{
+	border-top-color: #516a1f;
+	border-bottom-color: #516a1f;
+	background-color: #a26701;
+}
+
+/* --------------------------
+Footer
+--------------------------*/
+
+#footer {
+color: #a26701;
+}
+#footer a{
+color: #a26701;
+}
+
+/*----------------------------------
+Update slider controls
+----------------------------------*/
+
+#update {
+background-color: #e7da6b;
+color: #7e682d;
+}
+
+
+#update a{
+color: #7e682d;
+}
+
+#update-control a{
+color: #fff;
+}
+
+#update-control-home a{
+color: #fff;
+}
+
+/*----------------------------------
+Update control
+----------------------------------*/
+#update{
+}
+
+#login {
+	background-color:#8fae59;
+}
+
+#login a{
+	color: #fff;
+}
+
+
+/*----------------------------------
+Content
+----------------------------------*/
+
+#content h2{
+	border-bottom-color: #516a1f;
+}
+
+
+/* --------------------------
+See Also
+--------------------------*/
+#see-also a{
+	color: #fff;
+}
+
+#see-also p{
+	color: #a26701;
+}
+
+
+#see-also{
+	border-top-color: #F3E677;
+	border-bottom-color: #F3E677;
+	background-color: #C2B545;
+}
+
+/* --------------------------
+Hub blocks
+--------------------------*/
+.hub-left h4 a{
+	color: #fff;
+	border-bottom-color: #fff;
+}
+
+.hub-right h4 a{
+	color: #fff;
+	border-bottom-color: #fff;
+}
+
+.honeymoon h4 a{
+	color: #fff;
+	border-bottom-color: #fff;
+}
+
+.hub-left h4 {
+	border-bottom-color: #fff;
+}
+
+.hub-right h4 {
+	border-bottom-color: #fff;
+}
+
+.honeymoon h4 {
+	border-bottom-color: #fff;
+}
+
+.hub-left p{
+	color: #fff;
+}
+
+.hub-right p{
+	color: #fff;
+}
+
+.honeymoon p{
+	color: #fff;
+}
+
+/* --------------------------
+Map and Directions
+--------------------------*/
+
+#greenflag input{
+	color: #a26701;
+}
+
+/* --------------------------
+Guestbook
+--------------------------*/
+.guestbookHilight {
+	color: #a26701;
+}

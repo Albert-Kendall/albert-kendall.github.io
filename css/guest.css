@@ -1,0 +1,8 @@
+/* queste classi definiscono gli style per i tag relativi ai moduli ( input, select )*/
+/* these classes are related to the form tags ( input, select )*/
+.form  {
+	color: #7e682d;
+	background-color: #fff;
+	font: 1em Georgia, "Times New Roman", Times, serif;
+	margin: 20px 0px 0px 0px;
+}

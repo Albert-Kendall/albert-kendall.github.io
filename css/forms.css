@@ -1,0 +1,41 @@
+/* FORM ELEMENTS */
+
+
+/*------------------------------------
+Greenflag input box on Map and Directions page
+------------------------------------*/
+
+#greenflag input{
+font: 1em Georgia, "Times New Roman", Times, serif;
+
+}
+
+
+textarea {
+display:block;
+width: 425px;
+height: 50px;
+font: 1em Georgia, "Times New Roman", Times, serif;
+color: #7e682d;
+padding: 5px;
+}
+
+input {
+font: 1em Georgia, "Times New Roman", Times, serif;
+color: #7e682d;
+}
+
+select {
+font: 1em Georgia, "Times New Roman", Times, serif;
+color: #7e682d;
+margin: 0px 0px 0px 0px;
+}
+
+form {
+border:none;
+margin: 20px 0px 0px 0px;
+}
+
+form p { 
+line-height: 2.5em;
+}

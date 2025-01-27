@@ -1,0 +1,51 @@
+/* NAVIGATION */
+
+
+/* --------------------------
+Lines between each link
+--------------------------*/
+#nav ul{
+	text-align: left;
+	text-indent: 10px;
+	border-top-style: solid;
+	border-top-width: 1px;
+}
+
+#nav li{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	padding: 0px;
+}
+
+/* --------------------------
+No bullets and size
+--------------------------*/
+#nav ul{
+	width: 150px;
+	list-style-type: none;
+	}
+	
+/* --------------------------
+Make each link into a button
+--------------------------*/
+
+
+#nav a:link,
+#nav a:hover,
+#nav a:visited
+{
+display: block;
+padding: 1px;
+}
+
+
+/* --------------------------
+Position menu with IE workaround
+--------------------------*/
+
+#nav {
+	margin-top: 76px;
+	}
+* html #nav {
+	margin-top: 75px;
+	}

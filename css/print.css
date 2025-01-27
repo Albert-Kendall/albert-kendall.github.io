@@ -1,0 +1,22 @@
+
+#left-column, #breadcrumb, #update-control-home, #update, #update-control, #login, #footer, #see-also, #flash, #lightbox {
+display:none;
+}
+
+#middle-column, #content {
+text-align: left;
+width:100%;	
+}
+
+img{
+border: none;
+}
+
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12pt;
+	font-weight: normal;
+	text-decoration: none;
+	line-height: 1.5em;
+	text-align: left;
+}
