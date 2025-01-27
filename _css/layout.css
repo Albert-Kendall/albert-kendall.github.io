@@ -1,0 +1,400 @@
+/* LAYOUT */
+
+/* --------------------------
+Global whitespace reset
+--------------------------*/
+* {
+	margin:0;
+	padding:0;
+}
+
+div.clear{
+	clear: both;
+	height: 1px;
+}
+
+div.clear1{
+	clear: both;
+	margin-top: 20px;
+	height: 1px;
+}
+
+hr{
+	border: 0;
+	height: 1px;
+	margin-bottom: 10px;
+}
+
+.guestbookBreak {
+	margin: 10px 0px 0px 0px;
+}
+
+#taxi hr{
+	border: 0;
+	height: 1px;
+	margin-bottom: 0px;
+}
+.lightboximage {
+	padding: 6px;
+}
+
+/*----------------------------------
+Vertical background image
+----------------------------------*/
+body {
+	background:  url(../_img/bkgd_v.jpg) repeat-y center top;
+}
+
+
+
+/*----------------------------------
+Container retainer
+----------------------------------*/
+#retainer {
+	overflow: hidden;
+}
+
+
+
+/*----------------------------------
+Horizontal background image
+----------------------------------*/
+#container {
+	background:  url(../_img/bkgd_h.jpg) no-repeat center top;
+	margin-bottom: -300px;
+	padding-bottom: 300px;
+}
+
+
+/*----------------------------------
+Wrapper 
+----------------------------------*/
+#wrapper {
+	width: 760px;	
+	text-align: center;
+	margin:0 auto; /* to centre in Firefox*/ 
+}
+
+
+/*----------------------------------
+2 columns
+----------------------------------*/
+
+#left-column {
+	float: left;
+	width: 150px;
+}
+
+#middle-column {
+	text-align: left;
+	float: left;
+	width: 460px;
+}
+
+.signature{
+	margin-left: 100px;
+	margin-top: -20px;
+}
+
+
+
+/*----------------------------------
+Breadcrumb
+----------------------------------*/
+#breadcrumb {
+	padding: 0px 10px 2px 10px;
+}
+
+/*----------------------------------
+See Also
+----------------------------------*/
+
+
+/*----------------------------------
+Content
+----------------------------------*/
+#content {
+	padding: 0px 10px;
+}
+
+img{
+	border: none;
+}
+
+#content img{
+	border: none;
+}
+
+.thumbnail{
+	float: right;
+	padding: 3px;
+	text-align: center;
+}
+
+
+
+/*----------------------------------
+Hidden section
+----------------------------------*/
+#update {
+	padding-left: 10px;
+}
+
+#update ul {
+	list-style: none;
+	margin-left: 10px;
+}
+
+#update p {
+	margin-left: 10px;
+}
+
+
+
+/*----------------------------------
+Hidden Section tab (rest of site)
+----------------------------------*/
+
+#update-control {
+	background: url(../_img/update.gif) no-repeat;
+	text-align: left;
+	padding: 2px 20px 0px 365px;
+	height: 58px;
+	border: none;
+
+}
+
+
+
+/*----------------------------------
+Update control
+----------------------------------*/
+#updates{
+	width: 200px;
+	height: 50px;
+	margin-bottom: 30px;
+}
+
+#login {
+	width: 420px;
+	margin: 10px 0px 10px 0px;
+	padding: 10px;
+}
+
+#login p{
+	margin-left: 0px;
+
+}
+
+/*----------------------------------
+Footer
+----------------------------------*/
+#footer {
+	clear: both;
+	background: url(../_img/footer.gif) no-repeat;
+	padding: 20px 10px 10px 10px;
+	text-align: center;
+}
+
+/*----------------------------------
+Container
+----------------------------------*/
+
+#content h2{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	padding-top: 5px;
+}
+
+#content ul{
+	list-type: none;
+	margin: 0px 0px 0px 30px;
+}
+
+/* --------------------------
+See Also
+--------------------------*/
+#see-also {
+	margin: 0px 1px 15px 1px;
+	padding: 3px 0px 3px 0px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+}
+
+#see-also p{
+	margin-bottom: 0px;
+	margin-top:0px;
+	margin-left: 10px;
+}
+
+#see-also span{
+	margin-right: 5px;
+}
+
+
+/* --------------------------
+Main Image
+--------------------------*/
+
+#centerimage{
+	z-index: 3;
+	height: 235px;
+	background:  url(../_img/imagebottom.gif) no-repeat center bottom;
+}
+
+/* --------------------------
+Hub boxes
+--------------------------*/
+.hub {
+padding-bottom:20px;
+}
+
+
+.hub-left{
+	text-align: left;
+	float: left;
+	width: 205px;
+	margin: 0px 0px 10px 0px;
+	padding-right: 10px;
+	background:  url(../_img/hub-block.gif) no-repeat top left;
+}
+
+.hub-right{
+	float: left;
+	width: 205px;
+	margin: 0px 0px 10px 10px;
+	padding-right: 10px;
+	background:  url(../_img/hub-block.gif) no-repeat top left;
+}
+
+.hub-left img{
+	float: left;
+	padding: 0px;
+	margin: 0px;
+}
+
+.hub-right img{
+	float: left;
+	padding: 0px;
+	margin: 0px;
+}
+
+.hub-left h4{
+	padding-bottom: 5px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;	
+	text-indent: 10px;
+}
+
+.hub-right h4{
+	padding-bottom: 5px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	text-indent: 10px;
+}
+
+.hub-left li {
+	margin-left:12px;
+	color: #fff;
+}
+
+.hub-left li a {
+	color: #fff;
+}
+
+.hub-right li {
+	margin-left:12px;
+	color: #fff;
+}
+
+.hub-right li a {
+	color: #fff;
+}
+
+.honeymoon {
+	text-align: left;
+	float: left;
+	width: 440px;
+	margin: 0px 0px 10px 0px;
+	background-color: #A26701;
+	color: #fff;
+	min-height: 100px;
+}
+
+.honeymoon img {
+	float: left;
+	padding: 0px;
+	margin: 0px;
+}
+
+.honeymoon h4 {
+	padding-bottom: 5px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;	
+	padding-top: 10px;
+	padding-left: 10px;
+	text-indent: 10px;
+	width: 220px;
+	color: #fff;
+	font-weight: bold;
+}
+
+/* --------------------------
+Content subheadings
+--------------------------*/
+
+h3{
+padding-top: 20px;
+margin-bottom: -10px;
+}
+
+/* --------------------------
+Guestbook
+--------------------------*/
+#pagination {
+float:right;
+}
+
+/* --------------------------
+Homepage image
+--------------------------*/
+
+.homeImage {
+float:right;
+}
+
+.important {
+margin-left: 20px;
+}
+
+table#list {
+	margin: 0;
+	border-top: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+}
+table#list td {
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding: 5px;
+	}
+table#list th {
+	background: #ccc;
+	color: #000;
+	padding: 5px;
+	}
+table#list th a {
+	color: #000;
+	}
+table#view {
+	background-color: #fff;
+	width: 440px;
+	border-style: solid;
+	border-width: 5px;
+	padding: 5px;
+}
+table#view td {
+	border-bottom-style: solid;
+	border-width: 1px;
+}

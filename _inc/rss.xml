@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Albert and Kendall</title>
+    <link>http://www.albertandkendall.com</link>
+    <language>en</language>
+    <description>Albert Volkman and Kendall Dupree's wedding website</description>
+	
+	 <item>
+      <title>No Updates</title>
+      <description>There are currently no updates.</description>
+      <pubDate>Sun, June 24 2007</pubDate>
+      <author>Albert Volkman albert@27squared.com</author>
+      <guid isPermaLink="true">http://www.albertandkendall.com</guid>
+      <link>http://www.albertandkendall.com</link>
+    </item>
+	
+	 <item>
+      <title>Added Guestbook!</title>
+      <description>Leave us a note.</description>
+      <pubDate>Thu, July 12 2007</pubDate>
+      <author>Albert Volkman albert@27squared.com</author>
+      <guid isPermaLink="true">http://albertandkendall.com/g/index.php</guid>
+      <link>http://albertandkendall.com/g/index.php</link>
+    </item>
+
+	 <item>
+      <title>Albert has picked out his tux!</title>
+      <description>And it's fancy.</description>
+      <pubDate>Mon, August 13</pubDate>
+      <author>Albert Volkman albert@27squared.com</author>
+      <guid isPermaLink="true">http://www.albertandkendall.com</guid>
+      <link>http://www.albertandkendall.com</link>
+    </item>
+	
+	 <item>
+      <title>We have booked our honeymoon to Sandals Jamaica!</title>
+      <description>How exciting.</description>
+      <pubDate>Thu, August 16</pubDate>
+      <author>Albert Volkman albert@27squared.com</author>
+      <guid isPermaLink="true">http://www.albertandkendall.com/honeymoon.php</guid>
+      <link>http://www.albertandkendall.com/honeymoon.php</link>
+    </item>
+
+	 <item>
+      <title>Added engagement photos!</title>
+      <description>Have a look.</description>
+      <pubDate>Sat, August 18</pubDate>
+      <author>Albert Volkman albert@27squared.com</author>
+      <guid isPermaLink="true">http://www.albertandkendall.com/photography-engagement.php</guid>
+      <link>http://www.albertandkendall.com/photography-engagement.php</link>
+    </item>
+
+	 <item>
+      <title>Added RSVP Form!</title>
+      <description>Be sure to let us know if you're coming.</description>
+      <pubDate>Mon, August 20</pubDate>
+      <author>Albert Volkman albert@27squared.com</author>
+      <guid isPermaLink="true">http://www.albertandkendall.com/rsvp.php</guid>
+      <link>http://www.albertandkendall.com/rsvp.php</link>
+    </item>
+
+  </channel>
+</rss>
