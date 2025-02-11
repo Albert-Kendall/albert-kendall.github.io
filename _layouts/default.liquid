@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <title>{{ title }} | {{ site_title }}</title>
+  <link href="/css/main.css" rel="stylesheet" type="text/css" media="screen"/>
+  <link href="/css/print.css" rel="stylesheet" type="text/css" media="print"/>
+  <link href="inc/rss.xml" rel="alternate" type="application/rss+xml" />
+  <script type="text/javascript" src="_inc/flashObject.js"></script>
+  <script type="text/javascript" src="_inc/slider.js"></script>
+  <script type="text/javascript" src="_inc/lightbox.js"></script>
+  <script type="text/javascript" src="_inc/countdown.js"></script>
+  <script type="text/javascript" src="_inc/prototype.lite.js"></script>
+  <script type="text/javascript" src="_inc/moo.fx.js"></script>
+  <script type="text/javascript" src="_inc/password.js"></script>
+</head>
+<body>
+  <div id="retainer">
+    <div id="container">
+      <div id="wrapper">
+        <div id="left-column">
+          {% include "navigation.liquid" %}
+        </div>
+        <div id="middle-column">
+          <div id="update">
+            <h3>Recent Updates</h3>
+            {% include "updates.liquid" %}
+          </div>
+          <div id="update-control">
+            <a href="javascript:void(0);"  onclick="ul.toggle();" name="top" >Updates</a>
+          </div>
+          <div id="centerimage">  
+            <img src="{{ image }}" alt="Albert Volkman and Kendall Dupree wedding" title="Albert Volkman and Kendall Dupree wedding"/>
+          </div>
+          <div id="breadcrumb">
+            <p><a href="/">Home</a> &#8250; {{ title }}</p>
+          </div>
+          <div id="content">
+            <h1>{{ title }}</h1>
+            {{ content }}
+          </div>
+          <div id="quote">
+            <h4>&nbsp;</h4>
+          </div>
+          <div id="footer">  
+            <a href="#top">Top of the page</a> | <a href="/sitemap.xml">Sitemap</a> | <a href="_inc/rss.xml">RSS</a> |  
+            <a href="/day/">Only 
+            <script type="text/javascript">document.write(daysLeft);</script> days to go!</a>
+            <p>Copyright &copy; 2007 Albert Volkman &amp; Kendall Dupree.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
