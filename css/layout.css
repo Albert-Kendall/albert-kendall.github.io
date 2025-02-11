@@ -401,3 +401,18 @@ float:right;
 .important {
 margin-left: 20px;
 }
+
+.slide-up, .slide-down {
+  overflow:hidden;
+}
+
+.slide-up > div, .slide-down > div {
+  height: 0;
+  transform: translateY(-100%);
+  transition: 1s ease-in-out;
+}
+
+.slide-down > div {
+  height: 160px;
+  transform: translateY(0);
+}

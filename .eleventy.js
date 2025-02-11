@@ -2,6 +2,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     'css': 'css',
     'img': 'img',
+    'js': 'js',
   });
   eleventyConfig.addGlobalData('site_title', 'Albert & Kendall');
   eleventyConfig.setIncludesDirectory('_includes');
