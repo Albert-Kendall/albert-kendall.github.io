@@ -4,68 +4,60 @@ image: "/img/savethedate.jpg"
 permalink: /contactlist/
 ---
 
-Wedding Party Contact List
-==========================
-
 Say hello to the wedding party.
 -------------------------------
 
 We want to thank you for taking the time to visit our website and hope you continue to use it as a source of information and point of contact during the lead up to our wedding.
   
+<h4>Bride &amp; Groom</h4>
 <div class="thumbnail">
-  <img src="#" alt="Albert Volkman" width="140" height="140" />
+  <img src="/img/albert.webp" alt="Albert Volkman" />
   <p><a href="#">Contact Albert.</a></p>
 </div>
 <div class="thumbnail">
-  <img src="#" alt="Kendall Dupree" width="140" height="140" />
+  <img src="/img/kendall.webp" alt="Kendall Dupree" />
   <p><a href="#">Contact Kendall.</a></p>
 </div>
-<h4>Bride &amp; Groom</h4>
-<div class="clear"></div>
+<h4>Maid of Honor &amp; Bestman</h4>
 <div class="thumbnail">
-  <img src="#" alt="Matt Poole" width="140" height="140" />
+  <img src="/img/matt.webp" alt="Matt Poole" />
   <p><a href="#">Contact Matt.</a></p>
 </div>
 <div class="thumbnail">
-  <img src="#" alt="Merry Dupree" width="140" height="140" />
+  <img src="/img/merry.webp" alt="Merry Dupree" />
   <p><a href="#">Contact Merry.</a></p>
 </div>
-<h4>Maid of Honor &amp; Bestman</h4>
-<div class="clear"></div>
+<h4>Bridesmaids &amp; Groomsmen</h4>
 <div class="thumbnail">
-  <img src="#" alt="Don Love" width="140" height="140" />
+  <img src="/img/don.webp" alt="Don Love" />
   <p><a href="#">Contact Don.</a></p>
 </div>
 <div class="thumbnail">
-  <img src="#" alt="Jenny Ustler" width="140" height="140" />
+  <img src="/img/jenny.webp" alt="Jenny Ustler" />
   <p><a href="#">Contact Jenny.</a></p>
 </div>
-<h4>Bridesmaids &amp; Groomsmen</h4>
-<div class="clear"></div>
 <div class="thumbnail">
-  <img src="#" alt="Justin Clark" width="140" height="140" />
+  <img src="/img/justin.webp" alt="Justin Clark" />
   <p><a href="#">Contact Justin.</a></p>
 </div>
 <div class="thumbnail">
-  <img src="#" alt="Melissa Faux" width="140" height="140" />
+  <img src="/img/melissa.webp" alt="Melissa Faux" />
   <p><a href="#">Contact Melissa.</a></p>
 </div>
-<div class="clear"></div>
 <div class="thumbnail">
-  <img src="#" alt="Dale Dupree" width="140" height="140" />
+  <img src="/img/dale.webp" alt="Dale Dupree" />
   <p><a href="#">Contact Dale.</a></p>
 </div>
 <div class="thumbnail">
-  <img src="#" alt="Channa Dupree" width="140" height="140" />
+  <img src="/img/channa.webp" alt="Channa Dupree" />
   <p><a href="#">Contact Channa.</a></p>
 </div>
 <div class="clear"></div>
 <div class="thumbnail">
-  <img src="#" alt="Owen Dupree" width="140" height="140" />
+  <img src="/img/owen.webp" alt="Owen Dupree" />
   <p><a href="#">Contact Owen.</a></p>
 </div>
 <div class="thumbnail">
-  <img src="#" alt="Courtney Volkman" width="140" height="140" />
+  <img src="/img/courtney.webp" alt="Courtney Volkman" />
   <p><a href="#">Contact Courtney.</a></p>
 </div>
-<div class="clear"></div>

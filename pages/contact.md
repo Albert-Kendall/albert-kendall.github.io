@@ -17,18 +17,7 @@ As we live in a digital age, if you would prefer to RSVP online, please click on
 
 <p class="hub">We want to thank you for taking the time to visit our website and hope you continue to use it as a source of information and point of contact during the lead up to our wedding.</p>
 <div class="hub-left">
-  <img src="#" alt="" width="70" height="100" />
-  <h4><a href="/rsvp/">RSVP</a></h4>
-  <p>Reply to an invitation</p>
-</div>
-<div class="clear"></div>
-<div class="hub-left">
-  <img src="#" alt="" width="70" height="100" />
+  <img src="/img/wedding-party.webp" alt="" width="70" height="100" />
   <h4><a href="/contactlist/">Contact the wedding party</a></h4>
   <p>Ask them a question.</p>
-</div>
-<div class="hub-right">
-  <img src="#" alt="" width="70" height="100" />
-  <h4><a href="/g/">Guest book</a></h4>
-  <p>Leave us a message in our guest book</p>
 </div>
