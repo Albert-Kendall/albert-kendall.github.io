@@ -8,8 +8,8 @@
 
 <title>Respond to your invitation for the wedding of Albert Volkman and Kendall Dupree</title>
 
-<link href="_css/main.css" rel="stylesheet" type="text/css" media="screen">
-<link href="_css/print.css" rel="stylesheet" type="text/css" media="print">
+<link href="/css/main.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
 <link href="_inc/rss.xml" rel="alternate" type="application/rss+xml" >
 
 <script type="text/javascript" src="_inc/slider.js"></script>
@@ -33,15 +33,15 @@
 
 				<div id="nav">
                 <ul>
-                    <li><a href="index.php">Welcome</a></li>
-                    <li><a href="brideandgroom.php">Bride &amp; Groom</a></li>
-                    <li><a href="engagement.php">Engagement</a></li>
-                    <li><a href="arriving.php">Arriving</a></li>
-                    <li><a href="hotel-information.php">Hotel Information</a></li>
-                    <li><a href="registry.php">Registry</a></li>
-                    <li class="highlight"><a href="contact.php">Contact &amp; RSVP</a></li>
-                    <li><a href="photography.php">Photography</a></li>
-                    <li><a href="honeymoon.php">Honeymoon</a></li>
+                    <li><a href="/">Welcome</a></li>
+                    <li><a href="/brideandgroom/">Bride &amp; Groom</a></li>
+                    <li><a href="/engagement/">Engagement</a></li>
+                    <li><a href="/arriving/">Arriving</a></li>
+                    <li><a href="/hotel-information/">Hotel Information</a></li>
+                    <li><a href="/registry/">Registry</a></li>
+                    <li class="highlight"><a href="/contact/">Contact &amp; RSVP</a></li>
+                    <li><a href="/photography/">Photography</a></li>
+                    <li><a href="/honeymoon/">Honeymoon</a></li>
                 </ul>
                 
                 </div>
@@ -62,12 +62,12 @@
                 </div>
 
 				<div id="centerimage">	
-                <img src="_img/rsvp.jpg" alt="" width="460" height="230" title="Albert Volkman and Kendall Dupree wedding">
+                <img src="/img/rsvp.jpg" alt="" width="460" height="230" title="Albert Volkman and Kendall Dupree wedding">
                 
                 </div>
 
 			    <div id="breadcrumb">
-                <p><a href="index.php">Home</a> &#8250; <a href="contact.php">Contact &amp; RSVP</a> &#8250; RSVP</p>
+                <p><a href="/">Home</a> &#8250; <a href="/contact/">Contact &amp; RSVP</a> &#8250; RSVP</p>
                 
                 </div>
 	
@@ -101,8 +101,8 @@ else {
                 </div>
 	
                 <div id="footer">	
-                <a href="#top">Top of the page </a> | <a href="sitemap.htm">Sitemap</a> | <a href="_inc/rss.xml">RSS</a> |  
-                <a href="arriving.php">Only 
+                <a href="#top">Top of the page </a> | <a href="/sitemap.xml">Sitemap</a> | <a href="_inc/rss.xml">RSS</a> |  
+                <a href="/arriving/">Only 
                 <script type="text/javascript">document.write(daysLeft);</script> days to go!</a>
                 <p>Copyright &copy; 2007 Albert Volkman &amp; Kendall Dupree.</p>
                 </div>
