@@ -1,6 +1,6 @@
 ---
 title: "Arriving"
-image: "/img/map.png"
+image: "/img/map.webp"
 permalink: /arriving/
 ---
 
